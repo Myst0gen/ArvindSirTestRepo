@@ -1,0 +1,16 @@
+https://hub.docker.com/_/microsoft-dotnet-core
+https://hub.docker.com/_/microsoft-dotnet-core-samples/
+
+https://www.youtube.com/watch?v=q8nXv56gWms
+
+https://www.youtube.com/user/binarythistle/playlists
+https://www.youtube.com/watch?v=q8nXv56gWms
+https://www.youtube.com/watch?v=a8Z3MncihLg&t=5s
+
+Part1: https://www.youtube.com/watch?v=p8cAYgBIER8
+Part2: https://www.youtube.com/watch?v=Rus8uINc40s
+
+http://www.frankysnotes.com/2018/09/what-happen-when-you-mix-aspnet-core.html
+https://docs.docker.com/engine/examples/dotnetcore/#create-a-dockerfile-for-an-aspnet-core-application
+https://www.okta.com/products/advanced-server-access/
+ocelot api gateway
